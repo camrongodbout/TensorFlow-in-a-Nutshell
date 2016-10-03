@@ -10,6 +10,8 @@ Part 1 - The basics.
 
 Part 2 - Hybrid Learning
 
+Part 3 - All the Models
+
 
 Any improvements and suggestions are welcomed and appreciated.
 
