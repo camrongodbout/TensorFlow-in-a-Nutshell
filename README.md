@@ -5,6 +5,8 @@ Check out the related website with all the articles [camron.xyz](http://www.camr
 
 In this fast and easy guide to the most popular Deep Learning framework in the world we explore different aspects and applications for TensorFlow.
 
+All examples are in python 2.7
+
 
 Part 1 - The basics.
 
